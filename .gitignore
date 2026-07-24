@@ -2,3 +2,5 @@
 /*-backups
 *.zip
 *.lck
+.claude
+.history
